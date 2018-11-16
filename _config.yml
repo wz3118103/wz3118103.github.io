@@ -68,7 +68,7 @@ duoshuo_short_name : WangZhen
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Drive your business，<br>don't let you to advance your career"
+sidebar-about-description: "Drive your business，don't let you to advance your career"
 sidebar-avatar: /img/wz.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
